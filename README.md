@@ -8,3 +8,5 @@ A tie occurs when your hand total equals the dealer's hand total.
 
 Game goal:
 Reach four consecutive victories.
+
+![Project_02-18_HD 720p_(1)](https://user-images.githubusercontent.com/87886756/219884332-c279962a-87e8-45da-a6da-8ac01906988a.gif)
